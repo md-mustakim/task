@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>Welcome to CodeIgniter</title>	
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/fontawesome/css/all.min.css">
-	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/bootstrap/css/bootstrap.min.css">
 	
 </head>
 <body>
